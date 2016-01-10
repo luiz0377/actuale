@@ -1,0 +1,204 @@
+.table-curved {
+    border-radius: 6px;
+    border-left:0px;
+}
+#forgot { display: none; }
+.btn.btn-black { background: #0098DA; color: #fff; font-weight: bold; }
+.lojaProh3 { margin: 20px 0 0 15px; /*text-shadow: 1px 1px 2px #000;*/ background: rgba(255,255,255,.8); padding: 10px; box-sizing: border-box; font-weight: bold; }
+.lojaProh3 a { color: #0098DA !important; }
+/*/////////////////////////////Formata??o TopHead///////////////////////////*/
+
+header#topHead {
+	height:40px;
+	line-height:40px;
+	width:100%;
+	position:fixed;
+	top: 0; left:0; right:0; /* do not remove - position:fixed added by javascript */
+	background-color: #0098DA;
+        /*background-image: url('../img/pattern.png');*/
+	z-index:101;
+	border-bottom:#eee 1px solid;
+}
+
+header#topHead a {
+    color: #fff;
+    font-size: 14px;
+    padding-right: 10px;
+}
+
+
+
+/*/////////////////////////////Formata??o TopNav///////////////////////////*/
+
+header#topNav {
+    background-image: url('../img/pattern.png');
+	padding: 12px 0;
+	position:fixed;
+	top: 0; left:0; right:0;
+	width:100%;
+	z-index:100; /* always on top */
+	border-bottom:#F4F5F7 1px solid;
+	box-shadow:#eee 0 0 8px;
+}
+
+/*///////////////////////////Formata??o Login in///////////////////////////*/
+
+#topHead .signin-dd form div.checkbox {
+    line-height: 20px;
+    margin: 10px 0 0 20px;
+}
+
+.oferta{
+    margin-bottom: 20px;
+    
+}
+.produtos{
+    /*background-image: url('http://www.brasilnet.url.ph/sambaaprovacao/assets/images/icon_back.png');*/
+    /*background-size: cover;*/
+/*    background-color: #005580;*/
+/*    padding: 80px 0;
+    margin-top: 50px;*/
+    
+}
+
+.transparencia1 {
+     filter:alpha(opacity=10);
+     opacity: 0.1;
+     -moz-opacity:0.1;
+     -webkit-opacity:0.1;
+}
+
+.promo{
+    padding-left: 0px;
+}
+
+.promo2{
+    padding-right: 0px;
+}
+
+.item-box-desc h3{
+    font-size: 12px;
+    float: left;
+    color: #000;
+}
+
+.perfil{
+    float: left;
+    margin-right: 10px;
+}
+
+.user{
+    padding: 10px 0px;
+}
+
+.content{
+    padding-top: 80px;
+}
+
+.social{
+    padding: 10px 0;
+    background-color: #008cc0;
+}
+
+.social i{
+    padding-left: 10px; 
+}
+
+.brasilnet{
+    float: right;
+    text-align: center;
+}
+
+
+.foto-perfil{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: block;
+    margin:0 auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+}
+.foto-perfil img {
+    width: 100%;
+    height: 100%;
+    border: 5px solid #fff;
+    box-shadow: 1px 1px 4px #ccc;
+}
+
+.user-perfil{
+    padding-top: 100px;
+}
+
+.id-perfil h1{
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 14px;
+    line-height: 20px;
+}
+
+.id-perfil h2{
+    color: #7e8998;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    line-height: 18px;
+}
+
+.id-perfil hr{
+    margin: 35px 0px;
+}
+
+.id-perfil i{
+    margin-right: 8px;
+}
+
+.newsletter{
+    padding-top: 14px;
+}
+
+.btn-slide{
+    padding: 8px 24px;
+}
+
+.btn-slide:hover{
+    padding: 8px 24px;
+}
+
+.carrinho{
+    margin-right: 20px;
+    font-size: 40px;
+}
+
+footer .footer-content h3{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+footer .footer-content i{
+    margin-right: 8px;
+}
+
+header#topNav nav.mega-menu .mega-menu-content {
+padding: 20px 25px;
+}
+
+.padding20 {
+  padding: 20px 0 !important;
+  color: #fff;
+  text-shadow: 1px 0px 3px #595959;
+}
+
+/*.overlay.color2 {
+  background: rgba(192,202,32,0.6) !important;
+}*/
+
+.venda{
+    text-transform: uppercase;
+}
+
+.venda strong{
+    color: #0098DA;
+}

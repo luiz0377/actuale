@@ -1,0 +1,85 @@
+
+
+#ccForm #nome.error{
+	//background: #f8dbdb;
+        //background: #93d72e;
+	//border-color: #e77776;
+       // border-color: blue;
+}
+
+#ccForm input.error{
+	//background: #f8dbdb;
+        //background: #93d72e;
+	//border-color: #e77776;
+        border-color: #D65C33;
+}
+
+#ccForm input.valido{
+        border-color: #c6ed9c;
+}
+
+#nome{
+    font-size: 30;
+}
+
+/*#inpNomeFantasia{
+    width: 400px;
+    border-color: #79a7f1;
+   // background: #93d72e;
+}*/
+
+#error{
+	margin-bottom: 20px;
+	border: 1px solid red;
+}
+#error ul{
+	list-style: square;
+	padding: 5px;
+	font-size: 11px;
+}
+#error ul li{
+	list-style-position: inside;
+	line-height: 1.6em;
+}
+#error ul li strong{
+	color: #e46c6d;
+}
+#error.valid ul li strong{
+	color: #93d72e;
+}
+
+#ccForm div span{
+	margin-left: 10px;
+	color: #b1b1b1;
+	font-size: 11px;
+	font-style: italic;
+}
+#ccForm div span.error{
+	color: #e46c6e;
+}
+
+
+#uneNome{
+    font-size: 12px;
+    color: #D65C33;
+}
+
+#uneSobrenome{
+    font-size: 12px;
+    color: #D65C33;
+}
+
+#uneEmail{
+    font-size: 12px;
+    color: #D65C33;
+}
+
+#uneSenha1{
+    font-size: 12px;
+    color: #D65C33;
+}
+
+#uneSenha2{
+    font-size: 12px;
+    color: #D65C33;
+}

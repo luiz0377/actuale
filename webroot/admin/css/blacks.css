@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/07/2015, 14:52:53
+    Author     : André
+*/
+
+	h1,h2,h3,h4,h5,h6,
+	.divider.dark .fa,
+	.divider.white .fa,
+	div.tabs ul.nav-tabs li.active a,
+	h4.panel-title a,
+	div.toggle > label,
+	.noimg-slider h1,
+	.noimg-slider p,
+	.list-icon li:before,
+	.styleColor {
+		color:#000 !important;
+	}
